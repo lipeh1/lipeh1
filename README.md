@@ -31,6 +31,11 @@ I build practical web applications and contribute to open-source projects, explo
 - **[phi #487](https://github.com/pulseaiclub/phi/pull/487)** — Fixed HTTP server URL display in `mcp list`.  
   修复 `mcp list` 中 HTTP 服务器地址显示问题。
 
+- **rocketmq-rust** — Renamed dashboard and batch-executor interfaces to clarify their responsibilities. [#12697](https://github.com/mxsm/rocketmq-rust/pull/12697) · [#12703](https://github.com/mxsm/rocketmq-rust/pull/12703) · [#12704](https://github.com/mxsm/rocketmq-rust/pull/12704)  
+  重命名控制台和批量执行器接口，使职责更清晰。
+- **[rocketmq-rust #12705](https://github.com/mxsm/rocketmq-rust/pull/12705)** — Cached fleet capability snapshots across workspace navigation.  
+  为工作区导航添加集群能力快照缓存，减少重复请求。
+
 ### In review · 审查中
 
 - **[OpenViking #7378](https://github.com/volcengine/OpenViking/pull/7378)** — Working-directory-based connection selection.  
