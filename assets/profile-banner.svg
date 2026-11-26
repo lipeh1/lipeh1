@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title">
+  <title id="title">lipeh1 · Full-Stack AI Agent Developer</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#171123"/>
+      <stop offset="1" stop-color="#261541"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#6941a8" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#c1a2ff" stop-opacity=".85"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="18" fill="url(#background)"/>
+  <g transform="translate(786 111) rotate(-26)" fill="none" stroke="url(#orbit)" stroke-width="1.4">
+    <ellipse rx="116" ry="51"/>
+    <ellipse rx="108" ry="61"/>
+    <ellipse rx="97" ry="72"/>
+    <ellipse rx="84" ry="82"/>
+    <ellipse rx="67" ry="91"/>
+    <ellipse rx="47" ry="96"/>
+  </g>
+  <circle cx="783" cy="111" r="5" fill="#e1cbff"/>
+  <circle cx="891" cy="59" r="3.5" fill="#c1a2ff"/>
+  <rect x="61" y="60" width="4" height="101" rx="2" fill="#ae85f3"/>
+  <g font-family="system-ui, Arial, sans-serif">
+    <text x="88" y="111" font-size="58" font-weight="700" fill="#faf6ff">lipeh1</text>
+    <text x="91" y="153" font-size="25" font-weight="500" fill="#e1cbff">Full-Stack AI Agent Developer</text>
+  </g>
+</svg>
